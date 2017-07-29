@@ -1,4 +1,4 @@
 # Lucidus
 Java-based Overwatch cheat
 
-NOTE: Does not work anymore
+Proof of concept, does not work due to Blizzard disabling screen capture after LLMHF_INJECTED flags
